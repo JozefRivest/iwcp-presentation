@@ -400,7 +400,7 @@ shape women's attitudes independently of their general antimilitarist
 orientation. Article 9 also shows gender DIF but the pattern is subtler.
 :::
 
-## DIF: Generational Memory and Preemptive Strike
+## DIF: Preemptive Strike and Change Constitution
 
 ```{r}
 #| fig-align: center
