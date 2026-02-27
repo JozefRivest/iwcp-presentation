@@ -85,14 +85,6 @@ dif_cohort_PA1 <- lordif(
 - Mechanisms of resilience: backlash against unwanted policy [@takenaka2021], LDP-Komeito coalition dynamics [@liff2019]
 :::
 
-## From Norms to Attitudes
-
-- Previous research: pacifism/antimilitarism as **macro-level norms** — collective, national, homogenizing
-
-- This paper: **individual-level attitudes** — unobservable latent variables, continuously distributed, shaped by personal experience
-
-- This reframing reveals *heterogeneity* that norm-based approaches obscure
-
 ## Three Untested Assumptions
 
 ::: {.incremental}
@@ -108,6 +100,14 @@ dif_cohort_PA1 <- lordif(
 . . .
 
 If these fail, existing findings about pacifist change may rest on **invalid measurement**
+
+## From Norms to Attitudes
+
+- Previous research: pacifism/antimilitarism as **macro-level norms** — collective, national, homogenizing
+
+- This paper: **individual-level attitudes** — unobservable latent variables, continuously distributed, shaped by personal experience
+
+- This reframing reveals *heterogeneity* that norm-based approaches obscure
 
 # Data and Methods
 
@@ -227,7 +227,7 @@ grid.arrange(grobs = plots, ncol = 3)
 plot(grm.mod, type = "infotrace", which.items = 1:ncol(items2), rotate = "promax")
 ```
 
-## Contribution of the test as a whole
+## Contribution of the Test as a Whole
 
 ```{r}
 #| layout-ncol: 2
